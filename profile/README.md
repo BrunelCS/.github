@@ -3,10 +3,9 @@
 ![Members](https://img.shields.io/badge/Members-%3E1.5k-blue)
 ![Repo](https://img.shields.io/badge/Repositories-%3E700-blue)
 
-
 # Hi there 👋
 
-🙋‍ Welcome to the Brunel University London Github pages for the Computer Science department. In this repository you may find a wide variety of technologies that support our research and teaching such as but not limited to:
+🙋‍ Welcome to the Brunel University London Github pages for the Computer Science department. In this repository you may find a wide variety of technologies that support our research and teaching.
 
 <p align="center">
     <a href=""><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/></a>
@@ -25,8 +24,6 @@
     <a href=""> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
 </p>
 
-🌈 We encourage you to get involved in as many projects as possible! We as a department endeavour to support you in all facets of your learning
+📫  We are currently the second largest department in the College of Engineering, Design and Physical Sciences (CEDPS) based on a student population of more than 1300 students. Our department aims to create an enabling and inclusive environment which supports students and staff to create positive student outcomes and high-quality research with academic and societal benefits. We have critical mass in several areas of computing, notably Computing Methodologies (especially AI, intelligent data analysis and simulation), Human Centred Computing and Software Engineering. Our research is ranked 3rd by discipline in the UK by performance ranking of scientific papers and 1st for H-index [(NTU, 2022)](http://nturanking.csti.tw/ranking/ByYCS/2022/GB/ComputerSci). For more details, please see our [subject pages](https://www.brunel.ac.uk/computer-science/research-and-phd-programmes).
 
-🍿 Fun fact - your contributions here can be used to showcase your projects and skills in front of industry experts at our annual [Made in Brunel Software Innovation](https://www.brunel.ac.uk/computer-science/why-study-computer-science-at-brunel/skills-development/made-in-brunel-software-innovation) event
-
-🧙 Remember, we are here to help so do get in touch by emailing your tutor, module leader or our dedicated TPO!
+🍿 Fun fact - We invite industry experts to our annual [Made in Brunel Software Innovation](https://www.brunel.ac.uk/computer-science/why-study-computer-science-at-brunel/skills-development/made-in-brunel-software-innovation) event to showcase our student projects.
